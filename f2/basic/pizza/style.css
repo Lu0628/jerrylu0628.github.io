@@ -1,0 +1,18 @@
+body {
+    background-color: black;
+    color: orange;
+}
+
+img{
+height:200px;
+width:200px;
+}
+
+h5{
+    border-style:double
+}
+
+.squircle{
+    border-radius:25px;
+    padding:20px;
+}
